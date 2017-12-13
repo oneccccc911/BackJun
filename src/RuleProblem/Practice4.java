@@ -38,7 +38,7 @@ public class Practice4 {
             String[] strLine = sc.nextLine().split(" ");
             int x = Integer.parseInt(strLine[0]);
             int y = Integer.parseInt(strLine[1]);
-
+            int xx = 0;
         }
     }
 }
